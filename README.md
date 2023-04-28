@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshbtc090
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in making applications
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on crypto  websites
